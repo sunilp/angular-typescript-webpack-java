@@ -6,7 +6,7 @@
   "scripts": {
     "start": "webpack --config webpack/webpack.dev.js --watch -d",
     "test": "karma start --NODE_ENV=test",
-    "build": "webpack --config webpack/webpack.build.js --NODE_ENV=production"
+    "build": "webpack --config webpack/webpack.build.js "
   },
   "author": "Sunil Prakash <prakashsunil@gmail.com>",
   "license": "MIT",
