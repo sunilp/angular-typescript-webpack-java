@@ -3,3 +3,4 @@ target
 dist
 out
 .settings
+npm-debug.log
